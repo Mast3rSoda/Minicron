@@ -1,0 +1,5 @@
+22:36:ls -a | grep t | head -1:2
+23:49:ls -a:0
+22:59:ls | grep -c t:2
+22:26:cat test.txt:0
+23:59:cat main.c | tail -5 | head -1:0
